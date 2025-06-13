@@ -1,3 +1,4 @@
-# WALKTHROUGH LSPP
+# Welcome to LSPP 25' walkthrough
 
-## Welcome to LSPP git & github walkthrough
+## Git & GitHub 
+## HTML, CSS
